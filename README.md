@@ -1,2 +1,2 @@
-# JavaScript
-Tópicos interessantes para se guardar em JS (2021)
+# Lógica de programação
+Exercícios e tópicos interessantes para se guardar.
